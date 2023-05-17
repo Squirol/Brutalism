@@ -1,7 +1,7 @@
 # Architecture-Brutalism
 A Trackmania Item Pack
 
-Current Version: [0.1](https://github.com/Squirol/Architecture-Brutalism/releases)
+Current Version: [0.1](https://github.com/Squirol/Brutalism/releases)
 
 Notes:
 
