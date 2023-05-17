@@ -1,6 +1,11 @@
 # Architecture-Brutalism
 A Trackmania Item Pack
 
+Current Version: [0.1](google.com)
 
-Item Files will be dropped here as the project progresses.\
-Progress can be seen [here](https://docs.google.com/spreadsheets/d/1f_FYy_-5-FEG5bD52au5FAlpT265xHoOyOjbfbMM--0/edit?usp=sharing)
+Notes:
+
+The current version is incomplete. Other items will be added in the future and current icons for items are not perfect.
+
+WARNING:
+Naming scheme may change with future releases.
